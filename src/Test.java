@@ -29,6 +29,7 @@ public class Test {
 		
 		finally {
 			System.out.println("Iam finally block22");
+			System.out.println("haya");
 		}
 	}
 
